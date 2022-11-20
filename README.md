@@ -1,5 +1,4 @@
-# web promosi pasang indihome untuk pribadi
-
+# web Promosi Indihome
 <pre>
-Masih tahap pengembang aplikasi ...wait
+https://gilangwokeh.github.io/web_promosi_indihome
 </pre>
