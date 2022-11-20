@@ -1,4 +1,3 @@
 # web Promosi Indihome
-<pre>
-https://gilangwokeh.github.io/web_promosi_indihome
-</pre>
+
+untuk menjalankan install package ketik npm install setalah itu ketik npm start...Done !!
