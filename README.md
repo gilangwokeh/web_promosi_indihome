@@ -4,5 +4,5 @@ untuk menjalankan install package ketik npm install setalah itu ketik npm start.
 
 # hasil di bawah ini :
 <pre>
-https://indihome-solo.netlify.app/
+https://indihome-tangerang.netlify.app/
 </pre>
