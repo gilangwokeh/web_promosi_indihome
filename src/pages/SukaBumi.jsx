@@ -10,8 +10,8 @@ const SukaBumi = () => {
       <h1 className='text-center font-bold text-2x1 text-gray-800 pt-5 text-[22px]'>Pasang Indihome SukaBumi Di Tahun 2022 Dan Rilis Terbaru</h1>
       <div className='container mx-auto px-2 max-w-5xl pt-5 md:pt-32'>
         <img className='w-[60%] mx-auto' src="./IndiHome-Solo.jpg" alt="" />
-        <p className='pt-3 pb-2 text-justify'>Suatu Berita Menguntungkan bagi Kamu  Dan Keluarga Kamu yang memerlukan pemasangan Indihome .Segera Daftar  Indihome Solo Di  Tahun 2022 secara cepat dan mudah dengan menggunakan website pemasangan Indihome yang kami sediakan untuk kamu ingin memasang wifi indihome di rumah/kantor dan kamar apartemen kamu .</p>
-        <p className='pt-2 pb-2 text-justify'>Silahkan hidupkan handphone mu lalu  hubungi sales/marketing resmi Indihome Fiber (Speedy) Telkom Solo melalui website ini untuk pasang WIFI Indihome di rumah/kantor dan kamar apartemen Kamu.</p>
+        <p className='pt-3 pb-2 text-justify'>Suatu Berita Menguntungkan bagi Kamu  Dan Keluarga Kamu yang memerlukan pemasangan Indihome .Segera Daftar  Indihome SukaBumi Di  Tahun 2022 secara cepat dan mudah dengan menggunakan website pemasangan Indihome yang kami sediakan untuk kamu ingin memasang wifi indihome di rumah/kantor dan kamar apartemen kamu .</p>
+        <p className='pt-2 pb-2 text-justify'>Silahkan hidupkan handphone mu lalu  hubungi sales/marketing resmi Indihome Fiber (Speedy) Telkom SukaBumi melalui website ini untuk pasang WIFI Indihome di rumah/kantor dan kamar apartemen Kamu.</p>
         <p className='pt-2 pb-2 text-justify'>Indihome menawarkan koneksi internet unlimited (tanpa batasan kuota) dengan teknologi fiber optic. Saat ini, tersedia ada  layanan Triple Play dan Dual Play yang bisa Anda pilih. Triple Play terdiri dari Internet Fiber, Telepon Rumah, dan TV Interaktif (Usee TV). Adapun Dual Play terdiri dari Internet Fiber dan Telepon Rumah atau Internet Fiber dan TV Interaktif (Usee TV).</p>
         <h1 className='text-center font-bold pt-2'>Harga Paket Indihome SukaBumi Tahun 2022</h1>
         <p className='pt-2 pb-2 text-justify'>Semua harga paket indihome SukaBumi 2022 yang kami tampilkan merupakan produk terbaik dan terbaru</p>
@@ -62,7 +62,7 @@ const SukaBumi = () => {
         </ul>
         <a className='text-blue-600 hover:text-red-600' href="https://wa.me/6285348092993?text=Halo%20kak%20Saya%20ingin%20pasang%20wifi%20Indihome%20Paket%202P%20Kak?">Klik Untuk Order Pemasangan Wifi Indihome Paket 2P Internet Dan Telpon Lewat WhatsApp Saya</a>
         <h1 className='font-bold text-center p-4'>Biaya Tarif Pasang Baru Indihome SukaBumi Tahun 2022</h1>
-        <p className='pb-2'> secara harga biaya atau tarif pemasangan baru Indihome di Solo adalah sebagai berikut:</p>
+        <p className='pb-2'> secara harga biaya atau tarif pemasangan baru Indihome di SukaBumi adalah sebagai berikut:</p>
         <ul className='list-disc ml-5 pb-2'>
           <li>Biaya pemasangan (cukup sekali saja/tidak lebih dari sekali)</li>
           <li>Biaya paket berlangganan (Perbulanan)</li>
