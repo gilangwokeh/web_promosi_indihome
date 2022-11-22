@@ -4,5 +4,5 @@ untuk menjalankan install package ketik npm install setalah itu ketik npm start.
 
 # hasil di bawah ini :
 <pre>
-https://l.wl.co/l?u=https%3A%2F%2Findihome-solo.netlify.app%2F
+https://indihome-solo.netlify.app/
 </pre>
