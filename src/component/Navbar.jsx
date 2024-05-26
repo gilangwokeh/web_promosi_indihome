@@ -13,7 +13,7 @@ const NavbarHome = () => {
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="me-auto sm:ml-[70%]">
-            <Nav.Link href="https://pasangindihomesolo.web.id/" className='text-black'>Indihome Tangerang</Nav.Link>
+            <Nav.Link href="https://myindihome.web.id/indihome-tangerang/" className='text-black'>Indihome Tangerang</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
