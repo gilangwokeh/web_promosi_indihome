@@ -7,13 +7,13 @@ const Home = () => {
   return (
     <>
       <NavbarHome />
-      <h1 className='text-center font-bold text-2x1 text-gray-800 pt-5 text-[22px]'>Daftar Indihome Tangerang Di Tahun 2023 Dan Rilis Terbaru</h1>
+      <h1 className='text-center font-bold text-2x1 text-gray-800 pt-5 text-[22px]'>Daftar Indihome Tangerang Di Tahun 2024 Dan Tahun 2025 Rilis Terbaru</h1>
       <div className='container mx-auto px-2 max-w-5xl pt-5 md:pt-32'>
         <img className='w-[100%] mx-auto' src="./indihome-Tangerang.jpg" alt="Indihome Tangerang" />
-        <p className='pt-3 pb-2 text-justify'>Suatu Berita Menguntungkan bagi Kamu  Dan Keluarga Kamu yang memerlukan pemasangan Indihome .Segera Daftar  <a className='text-blue-600 hover:text-red-600' href="https://pasangindihomesolo.web.id/">Indihome Tangerang</a> Di  Tahun 2023 secara cepat dan mudah dengan menggunakan website pemasangan Indihome yang kami sediakan untuk kamu ingin memasang wifi indihome di rumah/kantor dan kamar apartemen kamu .</p>
+        <p className='pt-3 pb-2 text-justify'>Suatu Berita Menguntungkan bagi Kamu  Dan Keluarga Kamu yang memerlukan pemasangan Indihome .Segera Daftar  <a className='text-blue-600 hover:text-red-600' href="https://myindihome.web.id/indihome-tangerang/">Indihome Tangerang</a> Di  Tahun 2024 Dan Tahun 2025  secara cepat dan mudah dengan menggunakan website pemasangan Indihome yang kami sediakan untuk kamu ingin memasang wifi indihome di rumah/kantor dan kamar apartemen kamu .</p>
         <p className='pt-2 pb-2 text-justify'>Silahkan hidupkan handphone mu lalu  hubungi sales/marketing resmi Indihome Fiber (Speedy) Telkom Tangerang melalui website ini untuk pasang WIFI Indihome di rumah/kantor dan kamar apartemen Kamu.</p>
         <p className='pt-2 pb-2 text-justify'>Indihome menawarkan koneksi internet unlimited (tanpa batasan kuota) dengan teknologi fiber optic. Saat ini, tersedia ada  layanan Triple Play dan Dual Play yang bisa Anda pilih. Triple Play terdiri dari Internet Fiber, Telepon Rumah, dan TV Interaktif (Usee TV). Adapun Dual Play terdiri dari Internet Fiber dan Telepon Rumah atau Internet Fiber dan TV Interaktif (Usee TV).</p>
-        <h2 className='text-center font-bold pt-2'>Harga Paket Indihome Tangerang Tahun 2023</h2>
+        <h2 className='text-center font-bold pt-2'>Harga Paket Indihome Tangerang Tahun 2024 Dan Tahun 2025 </h2>
         <p className='pt-2 pb-2 text-justify'>Semua harga paket Indihome Tangerang 2023 yang kami tampilkan merupakan produk terbaik dan terbaru</p>
         <p className='pt-2 pb-2 text-justify'>Silahkan Kawan, Kerabat, Saudara semuanya silahkan call , sms , WA, tidak usah datang dan antri di plasa TELKOM cukup kontak kami dan kami akan datang ke tempat anda. Kami akan informasikan Paket-paket lain yang lebih terjangkau dan HARGA PROMO untuk wilayah tertentu.</p>
         <Paket />
@@ -25,7 +25,7 @@ const Home = () => {
           <li>TV Interaktif.</li>
         </ul>
         <p className='pb-2'>Paket ini termasuk paket promo pasang Indihome  yang paling banyak dipasang oleh pelanggan kami.</p>
-        <p className='pb-2'>Dengan harga promo paket Speedy Indihome di Tangerang Tahun 2023 Paket 3P memiliki fitur sebagai berikut:</p>
+        <p className='pb-2'>Dengan harga promo paket Speedy Indihome di Tangerang Tahun 2024 Dan Tahun 2025  Paket 3P memiliki fitur sebagai berikut:</p>
         <ul className='list-disc ml-5 pb-2'>
           <li>Internet kuota Unlimited (FUP)</li>
           <li>Speed 30 Mbps hingga 300 Mbps (Harga bulanan berbeda-beda)</li>
@@ -60,8 +60,8 @@ const Home = () => {
           <li className='ml-5'>Speed 50 Mbps: Rp 445.000 (belum Termasuk PPn 11%)</li>
           <li className='ml-5'>Speed 100 Mbps: Rp 795.000 (belum Termasuk PPn 11%)</li>
         </ul>
-        <a className='text-blue-600 hover:text-red-600' href="https://wa.me/6285348092993?text=Halo%20kak%20Saya%20ingin%20pasang%20wifi%20Indihome%20Paket%202P%20Kak?">Klik Untuk Order Pemasangan Wifi Indihome Paket 2P Internet Dan Telpon Lewat WhatsApp Saya</a>
-        <h3 className='font-bold text-center p-4'>Biaya Tarif Pasang Baru Indihome Tangerang Tahun 2023</h3>
+        <a className='text-blue-600 hover:text-red-600' href="https://wa.me/6289631119809?text=Halo%20kak%20Saya%20ingin%20pasang%20wifi%20Indihome%20Paket%202P%20Kak?">Klik Untuk Order Pemasangan Wifi Indihome Paket 2P Internet Dan Telpon Lewat WhatsApp Saya</a>
+        <h3 className='font-bold text-center p-4'>Biaya Tarif Pasang Baru Indihome Tangerang Tahun 2024 Dan Tahun 2025 </h3>
         <p className='pt-2 pb-2'> secara harga biaya atau tarif pemasangan baru Indihome di Tangerang adalah sebagai berikut:</p>
         <ul className='list-disc ml-5 pb-2'>
           <li>Biaya pemasangan (cukup sekali saja/tidak lebih dari sekali)</li>
