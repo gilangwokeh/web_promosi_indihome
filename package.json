@@ -48,5 +48,9 @@
     "gh-pages": "^4.0.0",
     "postcss": "^8.4.38",
     "tailwindcss": "^3.4.3"
-  }
+  },
+  "description": "untuk menjalankan install package ketik npm install setalah itu ketik npm start...Done !!",
+  "main": "postcss.config.js",
+  "author": "",
+  "license": "ISC"
 }

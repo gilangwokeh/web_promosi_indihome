@@ -42,7 +42,7 @@ const Home = () => {
           <li className='ml-5'>Speed 50 Mbps: Rp 615.000 (belum Termasuk PPn 11%)</li>
           <li className='ml-5'>Speed 100 Mbps: Rp 965.000 (belum Termasuk PPn 11%)</li>
         </ul>
-        <a className='text-blue-600 hover:text-red-600' href='https://wa.me/6285348092993?text=Halo%20kak%20Saya%20ingin%20pasang%20wifi%20Indihome%20Paket%203P%20Kak?'>Klik Untuk Order Pemasangan Wifi Indihome Paket 3P Lewat WhatsApp Saya</a>
+        <a className='text-blue-600 hover:text-red-600' href='https://wa.me/6289631119809?text=Halo%20kak%20Saya%20ingin%20pasang%20wifi%20Indihome%20Paket%203P%20Kak?'>Klik Untuk Pesan Pemasangan Wifi Indihome Paket 3P konsultasi WhatsApp</a>
         <h3 className='font-bold text-center p-4'>Paket 2P (Paket Internet dan Telpon)</h3>
         <p className='pb-2 text-justify'>Paket promo Indihome 2P Internet Telepon merupakan paket Dual Play yang terdiri atas internet dan telepon. Ini berarti Kamu tidak mendapatkan fasilitas UseeTV. Fitur paket 2P Internet Telepon adalah sebagai berikut:</p>
         <ul className='list-disc ml-5 pb-2'>
@@ -60,7 +60,7 @@ const Home = () => {
           <li className='ml-5'>Speed 50 Mbps: Rp 445.000 (belum Termasuk PPn 11%)</li>
           <li className='ml-5'>Speed 100 Mbps: Rp 795.000 (belum Termasuk PPn 11%)</li>
         </ul>
-        <a className='text-blue-600 hover:text-red-600' href="https://wa.me/6289631119809?text=Halo%20kak%20Saya%20ingin%20pasang%20wifi%20Indihome%20Paket%202P%20Kak?">Klik Untuk Order Pemasangan Wifi Indihome Paket 2P Internet Dan Telpon Lewat WhatsApp Saya</a>
+        <a className='text-blue-600 hover:text-red-600' href="https://wa.me/6289631119809?text=Halo%20kak%20Saya%20ingin%20pasang%20wifi%20Indihome%20Paket%202P%20Kak?">Klik Untuk Order Pemasangan Wifi Indihome Paket 2P Internet Dan Telpon konsultasi WhatsApp</a>
         <h3 className='font-bold text-center p-4'>Biaya Tarif Pasang Baru Indihome Tangerang Tahun 2024 Dan Tahun 2025 </h3>
         <p className='pt-2 pb-2'> secara harga biaya atau tarif pemasangan baru Indihome di Tangerang adalah sebagai berikut:</p>
         <ul className='list-disc ml-5 pb-2'>
@@ -70,7 +70,7 @@ const Home = () => {
         <p className='pb-2 text-justify'>Biaya pemasangan adalah Rp 150.000 Ribu  dan dibayarkan sekali saja. Biaya ini akan digabungkan pada pembayaran pertama bersama biaya paket berlangganan pada bulan berikutnya setelah pemasangan.</p>
         <p className='text-justify'>Biaya paket berlangganan akan tergantung dengan jenis paket yang Kamu pilih. Biaya ini harus dibayarkan Mulai tanggal 5 Sudah Muncul Pembayaran Tagihan dan paling Lambat tanggal 20 setiap bulan. Pada saat pembayaran tagihan Indihome, pastikan untuk mempersiapkan informasi nomer telepon Indihome Anda yang tercantum pada Kartu Pelanggan Indihome Kamu.</p>
         <h1 className='font-bold text-center p-4'>Syarat Untuk Bisa Pendaftaran</h1>
-        <p className='pb-2'>Hubungi WhatsApp Saya : 085348092993</p>
+        <p className='pb-2'>Hubungi WhatsApp Saya : 089631119809</p>
         <p className='pb-2'>Kamu Siap Kan isi Data melalui Link Ini : <a className='text-blue-600 hover:text-red-600' href="https://sobat.indihome.co.id/landingpage?pid=RCGLNG">KLIK DI SINI</a></p>
         <p className='pb-2 text-justify'>Pastikan Data Valid dan Pastikan Foto Jelas tidak blur atau Buram,Di Mohon HP Kamu selalu keadaan aktif untuk bisa di telpon dari Telkom 1500620.  waktu pemasangan Maksimal 3 hari atau Paling Lama 7 Hari.</p>
       </div>
